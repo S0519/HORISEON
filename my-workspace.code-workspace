@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\classrepo"
+		},
+		{
+			"path": "..\\..\\..\\exercises"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "exercises",
+		"liveServer.settings.port": 5501
+	}
+}
